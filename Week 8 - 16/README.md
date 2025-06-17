@@ -3,7 +3,7 @@
 **Concepts, Tools, and Techniques to Build Intelligent Systems**  
 _Aurélien Géron, 2nd Edition_
 
-Repository ini berisi kode lengkap dan ringkasan setiap bab dari buku **Hands‑On Machine Learning with Scikit‑Learn, Keras, and TensorFlow**.  
+Repository ini berisi contoh kode dan ringkasan setiap bab dari buku **Hands‑On Machine Learning with Scikit‑Learn, Keras, and TensorFlow**.  
 
 ## Daftar Isi
 
